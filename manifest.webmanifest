@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Asia Pacific Group",
+  "short_name": "APG ERP",
+  "description": "Portal operativo Asia Pacific Group",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/logo_white.png",
+      "sizes": "80x80",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
